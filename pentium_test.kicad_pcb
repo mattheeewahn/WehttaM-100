@@ -155949,19 +155949,6 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "Matthew Ahn 2026\nFinished on Nov 14, 2026 In subway"
-		(at 173.863 248.412 0)
-		(layer "B.SilkS")
-		(uuid "24bd672d-38a4-4429-814c-178cbe2aebf7")
-		(effects
-			(font
-				(size 1.2 1.2)
-				(thickness 0.2)
-				(bold yes)
-			)
-			(justify left top mirror)
-		)
-	)
 	(gr_text "연아야 나 너 좋아하는거같아"
 		(at 199.263 248.412 0)
 		(layer "B.SilkS")
@@ -155975,8 +155962,8 @@
 			(justify left top mirror)
 		)
 	)
-	(gr_text "ARC 100"
-		(at 223.52 168.275 0)
+	(gr_text "Prototype Neo Industry\nPNI 2026\nAll rights reserved"
+		(at 224 160 0)
 		(layer "B.SilkS")
 		(uuid "68414ce0-b8a2-4814-8792-cb46678335f3")
 		(effects
@@ -156001,8 +155988,8 @@
 			(justify top mirror)
 		)
 	)
-	(gr_text "Pentium 100"
-		(at 149.098 44.958 0)
+	(gr_text "CCP OUT"
+		(at 102.5 126 0)
 		(layer "B.SilkS")
 		(uuid "c80a767c-c418-440d-871f-d447952de1ea")
 		(effects
@@ -156012,6 +155999,31 @@
 				(bold yes)
 			)
 			(justify bottom mirror)
+		)
+	)
+	(gr_text "Matthew Ahn 2026\nFinished on Nov 14, 2026 In subway"
+		(at 194 251 0)
+		(layer "B.SilkS")
+		(uuid "24bd672d-38a4-4429-814c-178cbe2aebf7")
+		(effects
+			(font
+				(size 1.8 1.8)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left top mirror)
+		)
+	)
+	(gr_text "Prototype Neo Industry\nPNI 2026"
+		(at 359.5 141 0)
+		(layer "B.SilkS")
+		(uuid "a0b555d1-3f55-4fba-bf5c-fd95f745e704")
+		(effects
+			(font
+				(size 3 3)
+				(thickness 0.3)
+			)
+			(justify left bottom mirror)
 		)
 	)
 	(gr_text "I don't know where to find official \nmeasurements for front I/O\nso from manual measurements:\n4mm from left\n5m from top first GND pin\n\nlater note: Screw it: we can always\n3D print our I/O bracket"
