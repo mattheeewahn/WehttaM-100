@@ -156027,7 +156027,7 @@
 			(justify left top mirror)
 		)
 	)
-	(gr_text "M8MBC-586 REV 0.1"
+	(gr_text "WehttaM REV 0.1"
 		(at 223.52 168.275 0)
 		(layer "B.SilkS")
 		(uuid "68414ce0-b8a2-4814-8792-cb46678335f3")
