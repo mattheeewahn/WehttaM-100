@@ -1,0 +1,6 @@
+71251-0012 (SDRAM) - Molex
+User Library-ATX_24PIN - https://www.3dcontentcentral.com/secure/download-model.aspx?catalogid=171&id=1402740
+Socket 7 https://www.vogons.org/viewtopic.php?t=101293
+PS-2 combo.step - Zoo Design Studio
+USB-C - https://grabcad.com/library/usb-type-c-port-smd-type-1
+Battery holder - https://www.pcb-3d.com/wordpress/models/bat_holder_mpd_bs-7_easy_release_clip_plastic_th_for_cr2032/
